@@ -1,0 +1,6 @@
+
+*.xml
+*.iml
+CNN_Conv2D-BliBli/.DS_Store
+.DS_Store
+Dog_train_Bili/PreDataProcess.py
