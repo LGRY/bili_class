@@ -24,7 +24,7 @@ X_train = X_train.astype('float32')
 Y_test = Y_test.astype('float32')
 
 X_train = X_train/255.0
-Y_train /=255.0
+X_test = X_test/255.0
 
 # One-hot [0,0,0,0,0,1,0,0,0] =5
 
